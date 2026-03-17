@@ -18,8 +18,11 @@ Corporate Accounts Transaction Volume: 64,104 Line Items
 Project Objectives:
 
 Regional Benchmarking: Identify geographic "hotspots" and underperforming territories across the South, Midwest, West, and Northeast.
+
 Channel Optimization: Quantify the relative profitability of Wholesale (54% of volume), Distributor, and Export channels.
-Pareto Analysis: Identify the top 10% of customers driving the majority of revenue to mitigate concentration risk
+
+Pareto Analysis: Identify the top 10% of customers driving the majority of revenue to mitigate concentration risk.
+
 Time-Series Forecasting: Detect seasonal peaks and Year-over-Year (YoY) growth trends from 2014 to 2018.
 
 Technical Workflow:
@@ -30,5 +33,7 @@ Technical Workflow:
 
 Critical Insights & Constraints:
 Budget Gap: Only ~24% of records contain budget data, requiring a subset-specific variance analysis.
+
 Concentration: California represents the most significant geographic footprint with 12,000 transactions.
+
 Portfolio: The analysis tracks 30 distinct products, ranging from $167 to $6,566 in unit price.
